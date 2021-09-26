@@ -1,1 +1,1 @@
-# JointPricingMultimodalSystems
+# multimodal_experiment
